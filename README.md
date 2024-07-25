@@ -1,6 +1,6 @@
 # Danish-Mustafa
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Danish Mustafa] 👋
 
 ![Profile views](https://gpvc.arturio.dev/your-username)
 
