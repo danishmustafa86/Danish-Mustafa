@@ -144,6 +144,7 @@ puzzles.
 <br />
 <br />
 ## Connect with Me 🤝
+<h2><i>Connect with Me 🤝</i></h2>
 
 <p align="center">
 <!-- <a href="https://www.ahmad-jajja.com"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
