@@ -149,10 +149,9 @@ puzzles.
         <img src="./Images/oop.png" alt="OOP"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="./Images/java.webp" alt="JAVA"  width="150px" height="100px">
-    </td>
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>    </td>
      <td align='center'>
-        <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </td>
 </tr>
 
