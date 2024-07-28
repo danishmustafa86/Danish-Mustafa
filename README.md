@@ -1,7 +1,7 @@
 
 <!-- : [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/) -->
 <!--  # Software Engineer & Tech Trainer 🖥️.  -->
-<h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img alt="Hits" src="https://hits.sh/github.com/danishmustafa86.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a></h1>
+<h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/danishmustafa86/"><img src="https://komarev.com/ghpvc/?username=danishmustafa86&label=Profile%20views&color=0e75b6&style=flat" alt="danishmustafa86" /></a></h1>
 
 
 
