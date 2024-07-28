@@ -54,27 +54,27 @@ puzzles.
  <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="./Images/JS.jpg" alt="Javascript" width="150px" height="100px">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </td>
     <td align='center' width="190">
-        <img src="./Images/TS.png" alt="Typescript" width="150px" height="100px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </td>
      <td align='center' width="190">
-        <img src="./Images/react.webp" alt="React-JS" width="150px" height="100px">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </td>
      <td align='center' width="190">
-        <img src="./Images/git.webp" alt="Git" width="150px" height="100px">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </td>
      <td align='center' width="190">
-        <img src="./Images/cloud-firestore.jpg" alt="Cloud-Firestore" width="150px" height="100px">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="./Images/python.png" alt="Python"  width="150px" height="100px">
+       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
     </td>
     <td align='center'>
-        <img src="./Images/node-js.webp" alt="Node-JS"  width="150px" height="100px">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </td>
     <td align='center'>
         <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
